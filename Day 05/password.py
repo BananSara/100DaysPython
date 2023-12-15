@@ -20,6 +20,7 @@ for char in range(1, nr_symbols + 1):
 print(f'your password: {password}\n')
 
 
+
 # hard level random
 password_list = []
 for char in range(1, nr_letters + 1):
